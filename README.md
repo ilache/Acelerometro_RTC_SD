@@ -1,4 +1,4 @@
-## Acelerometro_RTC_SD
+# Acelerometro_RTC_SD
 Projeto para monitorar aceleração
 
-# Projeto desenvolvido pelo LAMMOC / UFF
+## Projeto desenvolvido pelo LAMMOC / UFF
